@@ -1,3 +1,3 @@
 # MLH Website Recreation
 
-This is a website recreate solely for the basics of the MLH GHW:Share challenge
+This is a website recreate solely for the purposes of the MLH GHW:Share
